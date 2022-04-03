@@ -3,8 +3,8 @@
 In this project, I will create a convolutional neural network that will
 be able to predict whether the plant is suffering from a disease or not.I will be using different layers and other hyper parameters for building,
 cleaning, and testing this classification model.
-	1) tensorflow
-	2) Keras
+1) tensorflow	
+2) Keras
 
 
 ### WHY:
@@ -15,13 +15,13 @@ One potential application is the development of mobile disease diagnostics throu
   
   
 The steps to solve the problem :
-	1) Mounting google drive on collab notebook
-	2) Visualizing the image that we will be working on
-	3) Finiding out the mean of the dimensions and resizing all image accordingly
-	4) Converting the images into a numpy array and normalize them 
-	5) checking class imbalance
-	6) Splitting the data and performing one-hot encoding
-	7) Creating the midel architecture, compiling the model and then fitting it.
-	8) Plotting the accuracy and loss against each epoch
-	9) Preprocessing the test data and make predictions on it.
-	10) Visualizing the orginal and predicted labels for the test images. 
+1) Mounting google drive on collab notebook
+2) Visualizing the image that we will be working on
+3) Finiding out the mean of the dimensions and resizing all image accordingly
+4) Converting the images into a numpy array and normalize them 
+5) checking class imbalance
+6) Splitting the data and performing one-hot encoding
+7) Creating the midel architecture, compiling the model and then fitting it.
+8) Plotting the accuracy and loss against each epoch
+9) Preprocessing the test data and make predictions on it.
+10) Visualizing the orginal and predicted labels for the test images. 
