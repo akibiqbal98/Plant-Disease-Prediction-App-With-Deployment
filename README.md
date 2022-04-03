@@ -25,3 +25,12 @@ The steps to solve the problem :
 8) Plotting the accuracy and loss against each epoch
 9) Preprocessing the test data and make predictions on it.
 10) Visualizing the orginal and predicted labels for the test images. 
+
+
+## Model Accuracy 
+The Test Accuracy is 99.44444298744202 %
+![model accuracy](https://user-images.githubusercontent.com/51336709/161420329-4ffc5a37-75b9-4d32-8377-c3f870dc140e.png)
+
+# App Interface
+![1](https://user-images.githubusercontent.com/51336709/161420360-4277d02f-43e2-4ddf-b5e5-70fcda613370.PNG)
+
